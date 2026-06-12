@@ -1,0 +1,5 @@
+:root {
+  --color-text-default: #111111; /* contraste ~18.1:1 em #FFFFFF */
+  --color-primary-default: #005A9C; /* contraste ~7.8:1 em #FFFFFF */
+  --color-background-default: #FFFFFF;
+}
